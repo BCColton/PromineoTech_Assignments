@@ -1,2 +1,1 @@
-"# Repo for assignments for PromineoTech"
-
+"# Repo for PromineoTech Assignments
